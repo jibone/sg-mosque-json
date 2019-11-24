@@ -1,0 +1,11 @@
+{
+  "name": "mosque.json",
+  "scripts": {
+		"test": "ava",
+    "watch:test": "ava --watch"
+	},
+  "devDependencies": {
+    "ava": "^2.4.0",
+    "ajv": "^6.10.0"
+  }
+}

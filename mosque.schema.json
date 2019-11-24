@@ -1,0 +1,57 @@
+{
+  "$id": "https://raw.githubusercontent.com/jibone/sg-mosque-json/master/mosque.schema.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Mosque list",
+  "descriptiom": "Data set for mosques in Singapore",
+  "required": ["mosques"],
+  "type": "object",
+  "properties": {
+    "mosques": {
+      "type": "array",
+      "items": {
+        "requires": ["name", "address", "location"],
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Name of the mosque"
+          },
+          "address": {
+            "type": "string",
+            "description": "Address of the mosque"
+          },
+          "location": {
+            "required": ["latitude", "longitude"],
+            "type": "object",
+            "description": "Mosque geographical coordinate",
+            "properties": {
+              "latitude": { "type": "integer" },
+              "longitude": { "type": "integer" }
+            }
+          },
+          "phone": {
+            "type": ["string", "null"],
+            "description": "Mosque contact number"
+          },
+          "fax": {
+            "type": ["string", "null"],
+            "description": "Mosque fax number"
+          },
+          "email": {
+            "type": ["string", "null"],
+            "description": "Mosque email address"
+          },
+          "website": {
+            "type": ["string", "null"],
+            "description": "Mosque website"
+          },
+          "type": { "type": ["string", "null"] },
+          "muis": {
+            "type": ["string", "null"],
+            "description": "Link to MUIS website for more information about the mosque"
+          }
+        }
+      }
+    }
+  }
+}
