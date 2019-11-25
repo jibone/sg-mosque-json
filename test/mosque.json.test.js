@@ -1,7 +1,7 @@
 import test from 'ava';
 import Ajv from 'ajv';
-import schema from './mosque.schema.json';
-import json from './mosque.json';
+import schema from '../schema/mosque.schema.json';
+import json from '../data/mosque.json';
 
 test('Valid JSON file', t => {
   let ajv = new Ajv({allErrors: true});
