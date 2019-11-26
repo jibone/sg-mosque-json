@@ -170,81 +170,87 @@
     },
     {
       "name": "Al-Iman",
-      "address": "10, Bukit Panjang Ring Road S(679943)",
+      "address": "10, Bukit Panjang Ring Road Singapore 679943",
       "location": {
-        "latitude": 0.0,
-        "longitude": 0.0
+        "latitude": 1.378180,
+        "longitude": 103.772647
       },
       "phone": "6769 0770",
       "fax": "6769 8970",
       "email": "aliman@aliman.mosque.org.sg",
       "website": "http://www.alimanmosque.org.sg",
-      "type": ""
+      "type": "MBMF",
+      "muis": "https://www.muis.gov.sg/mosque/Our-Mosques/Mosque-Directory/Al-Iman"
     },
     {
       "name": "Al-Islah",
       "address": "30 Punggol Field Singapore 828812",
       "location": {
-        "latitude": 0.0,
-        "longitude": 0.0
+        "latitude": 1.401317,
+        "longitude": 103.901530
       },
       "phone": "6312 5194",
       "fax": "6312 4205",
       "email": "info@islah.mosque.org.sg",
       "website": "https://alislah.sg",
-      "type": ""
+      "type": "MBMF",
+      "muis": "https://www.muis.gov.sg/mosque/Our-Mosques/Mosque-Directory/Al-Islah"
     },
     {
       "name": "Al-Istighfar",
       "address": "2, Pasir Ris Walk Singapore 518239",
       "location": {
-        "latitude": 0.0,
-        "longitude": 0.0
+        "latitude": 1.371068,
+        "longitude": 103.964161
       },
       "phone": "6583 8711",
       "fax": "6583 8722",
       "email": "alistighfar@alistighfar.mosque.org.sg",
       "website": null,
-      "type": ""
+      "type": "MBMF",
+      "muis": "https://www.muis.gov.sg/mosque/Our-Mosques/Mosque-Directory/Al-Istighfar"
     },
     {
       "name": "Al-Istiqamah",
-      "address": "2,Seranggon North Avenue 2 Singapore 555876",
+      "address": "2, Seranggon North Avenue 2 Singapore 555876",
       "location": {
-        "latitude": 0.0,
-        "longitude": 0.0
+        "latitude": 1.369162,
+        "longitude": 103.875726
       },
       "phone": "6281 4287",
       "fax": "6281 3204",
       "email": "feedback@alistiqamah.mosque.org.sg",
       "website": null,
-      "type": ""
+      "type": "MBMF",
+      "muis": "https://www.muis.gov.sg/mosque/Our-Mosques/Mosque-Directory/Al-Istiqamah"
     },
     {
       "name": "Alkaff Kampung Melayu",
       "address": "200, Bedok Reservoir Road Singapore 479221",
       "location": {
-        "latitude": 0.0,
-        "longitude": 0.0
+        "latitude": 1.336767,
+        "longitude": 103.913810
       },
       "phone": "6242 7244",
       "fax": "6242 0112",
       "email": "inbox@alkaffkm.mosque.org.sg",
       "website": "http://masjidalkaffkm.org",
-      "type": ""
+      "type": "MBMF",
+      "muis": "https://www.muis.gov.sg/mosque/Our-Mosques/Mosque-Directory/Alkaff-kampung-Melayu"
     },
     {
       "name": "Alkaff Upper Serangoon",
       "address": "66, Pheng Geck Avenue Singapore 348261",
       "location": {
-        "latitude": 0.0,
-        "longitude": 0.0
+        "latitude": 1.332992,
+        "longitude": 103.870546
       },
       "phone": "6280 0300",
       "fax": "6288 9019",
       "email": "info@alkaffus.sg",
       "website": null,
-      "type": ""
+      "type": "Wakaf",
+      "muis": "https://www.muis.gov.sg/mosque/Our-Mosques/Mosque-Directory/Alkaff-Upp-Serangoon"
     },
     {
       "name": "Al-Khair",
