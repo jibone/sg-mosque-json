@@ -256,79 +256,85 @@
       "name": "Al-Khair",
       "address": "1, Teck Whye Crescent Singapore 688847",
       "location": {
-        "latitude": 0.0,
-        "longitude": 0.0
+        "latitude": 1.382664,
+        "longitude": 103.750009
       },
       "phone": "6760 1139",
       "fax": "6763 6028",
       "email": "alkhair@alkhair.mosque.org.sg",
       "website": "http://alkhair-mosque.org.sg",
-      "type": ""
+      "type": "MBMF",
+      "muis": "https://www.muis.gov.sg/mosque/Our-Mosques/Mosque-Directory/Al-Khair"
     },
     {
       "name": "Al-Mawaddah",
       "address": "151 Compassvale Bow Singapore 544997",
       "location": {
-        "latitude": 0.0,
-        "longitude": 0.0
+        "latitude": 1.383464,
+        "longitude": 103.890270
       },
       "phone": "6489 0224",
       "fax": "6384 0403",
       "email": "info@almawaddah.mosque.org.sg",
       "website": "http://v1.almawaddah.sg",
-      "type": ""
+      "type": "MBMF",
+      "muis": "https://www.muis.gov.sg/mosque/Our-Mosques/Mosque-Directory/Al-Mawaddah"
     },
     {
       "name": "Al-Mukminin",
       "address": "271, Jurong East Street 21 Singapore 609603",
       "location": {
-        "latitude": 0.0,
-        "longitude": 0.0
+        "latitude": 1.339226,
+        "longitude": 103.741430
       },
       "phone": "6567 7777",
       "fax": "6567 3441",
       "email": "mosque@almukminin.mosque.org.sg",
       "website": "http://almukminin.sg",
-      "type": ""
+      "type": "MBMF",
+      "muis": "https://www.muis.gov.sg/mosque/Our-Mosques/Mosque-Directory/Al-Mukminin"
     },
     {
       "name": "Al-Muttaqin",
       "address": "5140 Ang Mo Kio Central Avenue 6 Singapore 569844",
       "location": {
-        "latitude": 0.0,
-        "longitude": 0.0
+        "latitude": 1.370448,
+        "longitude": 103.846074
       },
       "phone": "6454 7472",
       "fax": "6451 0781",
       "email": "info@almuttaqin.mosque.org.sg",
       "website": "http://www.almuttaqinmosque.sg",
-      "type": ""
+      "type": "MBMF",
+      "muis": "https://www.muis.gov.sg/mosque/Our-Mosques/Mosque-Directory/Al-Muttaqin"
     },
     {
       "name": "Al-Taqua",
       "address": "11A, Jalan Bilal Bedok Off Bedok Road Singapore 468862",
       "location": {
-        "latitude": 0.0,
-        "longitude": 0.0
+        "latitude": 1.321937,
+        "longitude": 103.953438
       },
       "phone": "6442 7704",
       "fax": "6445 4732",
       "email": "info@altaqua.mosque.org.sg",
       "website": null,
-      "type": ""
+      "type": "Wakaf",
+      "muis": "https://www.muis.gov.sg/mosque/Our-Mosques/Mosque-Directory/Al-Taqua"
     },
     {
       "name": "Angullia",
       "address": "265, Serangoon Road Singapore 218099",
       "location": {
-        "latitude": 0.0,
-        "longitude": 0.0
+        "latitude": 1.310661,
+        "longitude": 103.854029
       },
       "phone": "6295 1478",
       "fax": "6295 1478",
       "email": "info@angulliamosque.com.sg",
       "website": "http://www.angulliamosque.com.sg/",
-      "type": ""
+      "type": "Wakaf",
+      "muis": "https://www.muis.gov.sg/mosque/Our-Mosques/Mosque-Directory/Anggulia"
     },
     {
       "name": "An-Nahdhah",
